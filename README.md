@@ -33,7 +33,3 @@ This project allows users to summarize YouTube videos by extracting transcripts 
 
 - You may need a Hugging Face API key if you are using hosted models.
 - The extension makes requests to the Flask backend to process and return summaries.
-
-## License
-
-This project is licensed under the MIT License.
